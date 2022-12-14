@@ -1,0 +1,52 @@
+[
+    {
+        "Nameofthehospital": "Sankersa",
+        "PatientCount": "2001",
+        "Hospitallocation": "kollam1"
+    },
+    {
+        "Nameofthehospital": "Sankersb",
+        "PatientCount": "2002",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankersc",
+        "PatientCount": "2003",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankersd",
+        "PatientCount": "2004",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankerse",
+        "PatientCount": "2005",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankersf",
+        "PatientCount": "2006",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankersg",
+        "PatientCount": "2007",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankersh",
+        "PatientCount": "2008",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankersi",
+        "PatientCount": "2009",
+        "Hospitallocation": "kollam"
+    },
+    {
+        "Nameofthehospital": "Sankersj",
+        "PatientCount": "2010",
+        "Hospitallocation": "kollam"
+    }
+]
